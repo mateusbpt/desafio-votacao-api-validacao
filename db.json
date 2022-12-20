@@ -1,15 +1,43 @@
 {
     "users": [
         {
-            "id": 93185068050,
+            "id": "93185068050",
             "status": "ABLE_TO_VOTE"
         },
         {
-            "id": 11407444026,
+            "id": "11407444026",
             "status": "ABLE_TO_VOTE"
         },
         {
-            "id": 33014690995,
+            "id": "14185740077",
+            "status": "ABLE_TO_VOTE"
+        },
+        {
+            "id": "41783116030",
+            "status": "ABLE_TO_VOTE"
+        },
+        {
+            "id": "11407444026",
+            "status": "ABLE_TO_VOTE"
+        },
+        {
+            "id": "68497376005",
+            "status": "ABLE_TO_VOTE"
+        },
+        {
+            "id": "33014690995",
+            "status": "UNABLE_TO_VOTE"
+        },
+        {
+            "id": "06428291010",
+            "status": "UNABLE_TO_VOTE"
+        },
+        {
+            "id": "94410117033",
+            "status": "UNABLE_TO_VOTE"
+        },
+        {
+            "id": "38921273018",
             "status": "UNABLE_TO_VOTE"
         }
     ]
